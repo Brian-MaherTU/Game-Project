@@ -4,6 +4,13 @@ using UnityEngine;
 
 public class FinishLine : MonoBehaviour
 {
+
+    public AudioSource playSound;
+
+    private void OnTriggerEnter(Collider other)
+    {
+        playSound.Play();
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -13,7 +20,7 @@ public class FinishLine : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Debug.Log("You Made it to Granny's");
+        
     }
 
     
