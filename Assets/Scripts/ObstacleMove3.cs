@@ -5,20 +5,20 @@ using UnityEngine;
 public class ObstacleMove3 : MonoBehaviour
 {
 
-    public float delta = 5.0f;
+    public float move = 5.0f;
     public float speed = 2.0f;
-    private Vector3 startPos;
+    private Vector3 start;
     // Start is called before the first frame update
     void Start()
     {
-        startPos = transform.position;
+        start = transform.position;
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 v = startPos;
-        v.x += delta * Mathf.Sin(Time.time * speed);
+        Vector3 v = start;
+        v.x += move * Mathf.Sin(Time.time * speed);
         transform.position = v;
     }
 }
