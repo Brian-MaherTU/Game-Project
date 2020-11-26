@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class ObstacleMove3 : MonoBehaviour
 {
-
-    public float move = 5.0f;
     public float speed = 2.0f;
+    public float move = 5.0f;
+  
     private Vector3 start;
     // Start is called before the first frame update
     void Start()
