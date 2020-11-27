@@ -138,8 +138,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8bb8b01e33763b4fb59aea7ace1d1d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  move: 5
   speed: 2
+  move: 5
 --- !u!65 &32116335
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -389,7 +389,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100016, guid: 469edab27ab6d004d84af2c4a851bd7f, type: 3}
       propertyPath: m_Name
-      value: Conifer_Desktop_LOD0
+      value: Tree3
       objectReference: {fileID: 0}
     - target: {fileID: 400016, guid: 469edab27ab6d004d84af2c4a851bd7f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1740,8 +1740,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4ad4e5325de51345856c892e85c04b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  move: 4.5
   speed: 2
+  move: 4.5
 --- !u!1001 &1042162183
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1751,7 +1751,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100016, guid: 469edab27ab6d004d84af2c4a851bd7f, type: 3}
       propertyPath: m_Name
-      value: Conifer_Desktop_LOD0 (1)
+      value: Tree
       objectReference: {fileID: 0}
     - target: {fileID: 400016, guid: 469edab27ab6d004d84af2c4a851bd7f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1907,8 +1907,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e0d9d41ea0d4fc44a91a193b8e6e59f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  move: 4.5
   speed: 2
+  move: 4.5
 --- !u!54 &1076623704
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2012,8 +2012,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4ad4e5325de51345856c892e85c04b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  move: 5
   speed: 2
+  move: 5
 --- !u!65 &1088208196
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2104,7 +2104,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100016, guid: 469edab27ab6d004d84af2c4a851bd7f, type: 3}
       propertyPath: m_Name
-      value: Conifer_Desktop_Billboard
+      value: Tree2
       objectReference: {fileID: 0}
     - target: {fileID: 400016, guid: 469edab27ab6d004d84af2c4a851bd7f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2406,8 +2406,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4ad4e5325de51345856c892e85c04b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  move: 4.5
   speed: 2
+  move: 4.5
 --- !u!54 &1344409362
 Rigidbody:
   m_ObjectHideFlags: 0
