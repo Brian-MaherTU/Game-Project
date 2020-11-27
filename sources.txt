@@ -1,0 +1,80 @@
+Crazy Cars Sources.txt
+
+Name of Asset: Car
+
+Original Name of Asset: SkyCar
+
+Location Asset Came From: https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351#description
+
+Adaptions Made: None
+
+
+______________________
+
+Name of Asset: Barricade
+
+Original Name of Asset: Barricade
+
+Location Asset Came From: https://assetstore.unity.com/packages/3d/props/exterior/wooden-barricades-111243#description
+
+Adaptions Made: Scaled
+
+_____________________
+
+Name of Asset: Modular Track
+
+Original Name of Asset: Modular Track
+
+Location Asset Came From: https://assetstore.unity.com/packages/3d/environments/modular-track-85356
+
+Adaptions Made: Race Lines Removed
+
+___________________
+
+Name of Asset: Suburb House
+
+Original Name of Asset: Suburb House
+
+Location Asset Came From: https://assetstore.unity.com/packages/3d/environments/low-poly-buildings-lite-98836
+
+Adaptions Made: Scaled
+
+_____________________
+
+Name of Asset: Granny
+
+Original Name of Asset: Granny
+
+Location Asset Came From: http://www.fromtexttospeech.com/
+
+Adaptions Made: None
+
+_____________________
+
+
+Name of Asset: Granny2
+
+Original Name of Asset: Granny2
+
+Location Asset Came From: http://www.fromtexttospeech.com/
+
+Adaptions Made: None
+______________________
+
+Name of Asset: POL-mad-chase-short
+
+Original Name of Asset: POL-mad-chase-short
+
+Location Asset Came From: Lost-Link
+
+Adaptions Made: None
+
+________________________
+
+Name of Asset: Tree
+
+Original Name of Asset: Conifer
+
+Location Asset Csme From: https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351#description
+
+Adaptions Made: Scaled
