@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FinishLine : MonoBehaviour
+public class Warning : MonoBehaviour
 {
 
-    public AudioSource playSound;
+    private AudioSource playSound;
+
 
     private void OnTriggerEnter(Collider other)
     {
@@ -14,15 +15,13 @@ public class FinishLine : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        playSound = GetComponent<AudioSource>();
     }
+
 
     // Update is called once per frame
     void Update()
     {
         
     }
-
-    
 }
-
